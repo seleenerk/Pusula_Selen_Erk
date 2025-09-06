@@ -1,6 +1,6 @@
 # Pusula Data Science Case – [Selen Erk]
 
-## 👤 Katılımcı Bilgileri
+## Katılımcı Bilgileri
 - **Ad Soyad:** Selen Erk
 - **E-posta:** selenerk131410@gmail.com  
 
@@ -24,7 +24,7 @@ Pusula_DS_Starter/
 ├── requirements.txt # Gerekli Python paketleri
 └── README.
 
-## ⚙️ Kurulum ve Çalıştırma
+## Kurulum ve Çalıştırma
 1. Sanal ortam oluştur ve aktif et:
    ```bash
    python -m venv venv
